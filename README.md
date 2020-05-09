@@ -26,7 +26,7 @@
 
 ## The files included are:
 ```sh
-* /Images-of-result : Screenshot of results.
+* /images-of-result : Screenshot of results.
 * /clusters-pipeline : CloudFormation Script of Cluster Pipeline file 
 * /containers-pipeline : Deployment Script of Containers Pipeline file
 * Jenkinsfile : Jenkinsfile for Creating Pipeline
